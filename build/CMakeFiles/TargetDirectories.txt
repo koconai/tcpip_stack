@@ -1,0 +1,17 @@
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/CMakeFiles/edit_cache.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/CMakeFiles/rebuild_cache.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/lib/CMakeFiles/standard_lib.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/lib/CMakeFiles/edit_cache.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/lib/CMakeFiles/rebuild_cache.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/startup/CMakeFiles/startup.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/startup/CMakeFiles/edit_cache.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/startup/CMakeFiles/rebuild_cache.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/src/CMakeFiles/stm32f407.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/src/CMakeFiles/edit_cache.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/src/CMakeFiles/rebuild_cache.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/src/LED/CMakeFiles/led.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/src/LED/CMakeFiles/edit_cache.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/src/LED/CMakeFiles/rebuild_cache.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/src/UART/CMakeFiles/rebuild_cache.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/src/UART/CMakeFiles/uart.dir
+F:/6. Tung/azureRtos/workspace/20210929_1/test2/build/src/UART/CMakeFiles/edit_cache.dir

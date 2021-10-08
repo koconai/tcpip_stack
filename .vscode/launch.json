@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "cortex-debug",
+            "request": "launch",
+            "name": "Debug (OpenOCD)",
+            "servertype": "openocd",
+            "cwd": "${workspaceRoot}",
+            // "preLaunchTask": "cargo build",
+            "runToMain": true,
+            // "executable": "${workspaceRoot}/../test1/Debug/test1.elf",
+            "executable": "${workspaceRoot}/build/src/stm32f407.elf",
+            "configFiles": [
+                "${workspaceRoot}/debug/launch.cfg"
+            ],
+            "swoConfig": {
+                "enabled": true,
+                "cpuFrequency": 8000000,
+                "swoFrequency": 2000000,
+                "source": "probe",
+                "decoders": [
+                    { "type": "console", "label": "ITM", "port": 0 }
+                ]
+            }
+        }
+    ]
+}
